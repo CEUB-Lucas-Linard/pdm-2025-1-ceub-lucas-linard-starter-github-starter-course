@@ -1,1 +1,1 @@
-Eu aprendi a criar um arquivo dentro do GitHub, ainda estou com um pouco de dificuldade para entender como funciona, mas animado para ver como vai ser daqui pra frente.
+Eu me chamo Matheus Luigi, em uma breve descrição diria que sou estudante e entusiasta de tecnologia da informação mais especifícamente em ciências da computação, faço pelo Centro Universitário de Brasília (Ceub) hoje aprendi a criar um arquivo dentro do GitHub, ainda estou com um pouco de dificuldade para entender como funciona, mas animado para ver como vai ser daqui pra frente.
