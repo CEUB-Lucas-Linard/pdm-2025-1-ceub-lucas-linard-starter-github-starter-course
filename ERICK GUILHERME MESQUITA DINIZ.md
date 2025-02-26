@@ -1,4 +1,3 @@
-Aprendi gerênciar projetos, arquitetar softwares, programar em python, html, css, haskell, prolog.
+meu aprendizado no curso foi muito com programaçao com diversas linguagens
 
-Tenho dúvida em haskel, prolog, e java 
-
+e tenho dúvida em haskel, prolog e java
