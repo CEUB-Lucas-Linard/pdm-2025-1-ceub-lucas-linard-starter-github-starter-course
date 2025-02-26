@@ -1,1 +1,1 @@
-Eu aprendi a como criar um aruivo dentro do github, ainda sinto dificuldades no quesito da criação de um pull request. A aula está ótima e produtiva.
+Eu aprendi a como criar um arquivo dentro do github, ainda sinto dificuldades no quesito da criação de um pull request. A aula está ótima e produtiva, porém o ceub poderia investir melhor nos computadores e também nos periféricos, visto que pagamos um valor alto na matrícula.
