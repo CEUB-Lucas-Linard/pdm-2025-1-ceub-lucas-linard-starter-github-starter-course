@@ -1,0 +1,1 @@
+Aprendi a diferença entre Git e github, além de funções básicas como pull request, Issues, forks e branches. Fiquei em dúvida em como utilizar ainda o github com um projeto e compartilhar códigos de projetos.
